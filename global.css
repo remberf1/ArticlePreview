@@ -252,7 +252,7 @@ p {
 
  
   .footer {
-    
+    position: relative;
     padding-right: 2rem;
   }
   .footer.active{
@@ -269,7 +269,7 @@ p {
     padding: 1rem;
     border-radius: 20px;
     position: absolute;
-    top: 55%;
+    top: -85%;
     right: -6%;
   display: flex;
   align-items: center;
